@@ -92,5 +92,5 @@ def dropping():
     conn.commit()
     conn.close()
 
-    return "Basketball Table Successfully Dropped"
+    return "Basketball Table Successfully Dropped!"
 
